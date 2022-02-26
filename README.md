@@ -10,6 +10,8 @@
 
 ## Preview
 
+-
+
 ## Description
 
 - This repository was created to enhance the experience for the user (accessibility), the client Horiseon Social Solution Services Inc. (SEO optimiation) and for future developers (readibility)
