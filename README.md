@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
-[Preview](##Preview)
-[Description](##Description)
-[Built-with](##Built-with)
-[URL](##URL)
-[Feedback](##Feedback)
+[Preview](#Preview)
+[Description](#Description)
+[Built-with](#Built-with)
+[URL](#URL)
+[Feedback](#Feedback)
 
 ## Preview
 
