@@ -7,14 +7,16 @@
 [Preview](##Preview)
 [Description](##Description)
 [Built-with](##Built-with)
+[URL](##URL)
+[Feedback](##Feedback)
 
 ## Preview
 
--
+![Screenshot](./assets/images/Horiseon_Preview.png)
 
 ## Description
 
-- This repository was created to enhance the experience for the user (accessibility), the client Horiseon Social Solution Services Inc. (SEO optimiation) and for future developers (readibility)
+- This repository was created to enhance the experience for the user (accessibility), the client Horiseon Social Solution Services Inc. (SEO optimization) and for future developers (readibility)
 
 ## Built-with
 
@@ -22,7 +24,7 @@
 
 ## URL
 
--
+- https://gsaaad.github.io/Horiseon_SocialSolutionServices/
 
 ## Feedback
 
