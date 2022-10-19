@@ -16,13 +16,7 @@
 
 ## Description
 
-- This repository was created to enhance the experience for the user (accessibility), the client Horiseon Social Solution Services Inc. (SEO optimization) and for future developers (readibility)
-  - Accessibility
-    - Defined as increasing our user's accessibility to the website, by updating images and adding alt attributes which is read aloud to blind users on a screen reader
-  - SEO Optimization
-    - Defined as increasing our code efficiency for the search engine by utilizing semantic HTML instead of divs
-  - Readibility
-    - Defined as increasing our code's readbility for developers by utilizing semantic HTML as well as consolidating any redundancies
+- Horiseon client website to increase Search Engine Optimization, increase readibility, and drive user experience forward
 
 ## Built-with
 
@@ -35,4 +29,3 @@
 ## Feedback
 
 - Ask a question
-- Open to feedback
